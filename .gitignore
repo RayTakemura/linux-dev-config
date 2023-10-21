@@ -5,5 +5,5 @@
 !.gitignore
 !.tmux.conf
 
-!.conf/nvim/*
+!.config/nvim/*
 
