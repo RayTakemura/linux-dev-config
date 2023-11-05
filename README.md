@@ -2,6 +2,18 @@
 My linux config for development.
 Feel free to try it out if you use linux!
 
+Install Node.js
+sudo dnf install nodejs
+Install Node.js provider
+npm install -g neovim
+Install gcc
+sudo dnf install gcc
+Install zip/unzip (unzip is a dependency for zip)
+sudo dnf install zip
+sudo dnf install unzip
+Install ripgrep
+sudo dnf install ripgrep
+
 Install Neovim
 sudo dnf install -y neovim python3-neovim
 
