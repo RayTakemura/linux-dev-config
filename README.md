@@ -12,4 +12,3 @@ Run Command:
 
 Install tmux plugin
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
-test
